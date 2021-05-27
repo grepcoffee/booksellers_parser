@@ -1,4 +1,3 @@
-#Project 1 NYT Best Seller
 import os
 import pandas as pd
 import numpy as np
